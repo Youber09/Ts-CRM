@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 
 1-don't forget to open terminal and write => npm i
-\n and follow the steps along
-\n2-also write => npx json-server db.json
-\nright after finishing
-\n3-last open another terminal simultaniously and write => npm run dev
+ and follow the steps along
+2-also write => npx json-server db.json
+right after finishing
+3-last open another terminal simultaniously and write => npm run dev
